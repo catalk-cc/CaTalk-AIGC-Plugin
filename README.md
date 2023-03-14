@@ -1,0 +1,1 @@
+# CaTalk-AIGC-Plugin
